@@ -1,6 +1,6 @@
 ## GAINER LED Matrix shield PCB and schematics
 
-[Shiled board](img/board.png "GAINER Led Matrix Shield")
+[Shield board](board.png "GAINER Led Matrix Shield")
 
 A simple shield for GAINER I/O board to connect a 8x8 LED Matrix. Single-sided PCB designed in KiCad with large 1206 SMD components. Contents:
 
